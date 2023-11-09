@@ -66,12 +66,12 @@ img{
 img:hover{
   background-color: hsl(0, 0%, 8%);
 }
-h2{
+h1{
   color: hsl(0, 0%, 8%);
   font-size: 72px;
   font-style: italic;
 }
-h2 span{
+h1 span{
   color: hsl(259, 100%, 65%);
 }
 
